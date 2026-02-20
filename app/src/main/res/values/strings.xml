@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OverlayTester</string>
+    <string name="status_running">Status: running</string>
+    <string name="status_stopped">Status: stopped</string>
+</resources>
